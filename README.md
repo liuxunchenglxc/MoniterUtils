@@ -15,4 +15,4 @@ Just `pip install streamlit` should be fine, as there only some simple usage.
 
 Before running the app, you need to check this script content first, and write your own things.
 
-`streamlit run task_monitor_util.py` can run this. For more options, please check `streamlit --help'.
+`streamlit run task_monitor_util.py` can run this. For more options, please check `streamlit --help`.
